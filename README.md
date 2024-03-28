@@ -1,6 +1,11 @@
 # MuralDeVagas
 Django Mural de vagas.
 
+## Telas
+![Tela Inicial](printscreens/home.png)
+![Tela Vagas Peenchidas](printscreens/jobs.png)
+![Tela Detalhes da Vaga](printscreens/detailvaga.png)
+![Tela de Cadastro usuário](printscreens/userform.png)
 
 ## Instalação 
 
